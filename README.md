@@ -1,4 +1,4 @@
-WebPortfolio
+WebPortfolio-template
 ============
 
 It is Web portfolio template for Webs Programming Group users.
